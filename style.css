@@ -1,0 +1,116 @@
+*
+{
+	margin: 5px;
+	padding: 0px;
+}
+
+body
+{
+	background-image: url('1.jpg');
+}
+
+.header
+{
+	margin-bottom: 20px;
+}
+
+.fullname
+{
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-bottom: 10px;
+	color: white;
+}
+
+.firstname
+{
+	font-weight: 600;
+
+}
+
+.lastname
+{
+	font-weight: 200;
+}
+
+.info
+{
+	margin-bottom: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+.aboutme
+{
+	color: white;
+}
+
+.summary
+{
+	font-size: 20px;
+}
+
+.email
+{
+	color: #996;
+	font-weight: 300;
+}
+
+.spacing
+{
+	height: 10px;
+	display: inline-block;
+	border-left: 2px solid #996;
+	margin: 0px 10px;
+}
+
+.PersonalInfo
+{
+	color: white;
+}
+
+.skillinfo
+{
+	color: white;
+}
+
+.contact
+{
+	color: #996;
+	font-weight: 300;
+}
+
+.aboutme
+{
+	margin-bottom: 20px;
+}
+
+.PersonalInfo
+{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.skillinfo
+{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.Education
+{
+	margin-bottom: 20px;
+	color: white;
+	font-size: 20px;
+}
+
+.title
+{
+	font-size: 35px;
+	margin-bottom: 20px;
+	letter-spacing: 2px;
+	color: #54A4E4;
+	font-weight: bold;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
